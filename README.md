@@ -1,7 +1,7 @@
 # Exploration & Modelling of TTC Bus Delays
 Everyday, more than a million people in Toronto and the GTA make use of the TTC public transit system to get around to where they need to be. However, it is not always easy to be on time, as TTC buses may experience delays which are not only inconvenient but at times detrimental to Torontonian's work and personal lives.
 
-The advent of predictive technology, particularly Machine Learning, has contributed to making public transit system more effective and enjoyable for riders. 
+The advent of predictive technology, particularly Machine Learning, has contributed to making public transit system more effective and enjoyable for riders. As someone who prefers public over private for transportation anyday, I feel motivated to learn more about TTC and its delays and perhaps try to provide some solutions with Machine Learning.
 
 ![TTC Bus](https://cdn.mobilesyrup.com/wp-content/uploads/2018/03/ttc-bus.jpg)
 
