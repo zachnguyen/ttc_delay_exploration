@@ -1,6 +1,8 @@
 # Exploration & Modelling of TTC Bus Delays
 Everyday, hundreds of thousands of .
 
+![TTC Bus](https://cdn.mobilesyrup.com/wp-content/uploads/2018/03/ttc-bus.jpg)
+
 This repository house my project to explore the TTC Bus Delay dataset and find an ML Use Case
 
 ## Data
