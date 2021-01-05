@@ -9,6 +9,7 @@ This repository house my project to explore the TTC Bus Delay dataset and find a
 
 ## Data
 The data used by this project are [TTC Delay datasets](https://open.toronto.ca/dataset/ttc-bus-delay-data/) from the City of Toronto Open Data Portal.
+Future incorporation of data such as Bus Stop, GPS coordinates, Weather Data is being explored.
 
 ## Setup
 The 'setup_script.ipynb' script download the data with an API call and set up the structure of the directory for the project
