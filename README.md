@@ -16,9 +16,10 @@ The 'setup_script.ipynb' script download the data with an API call and set up th
 
 ## Preprocessing
 The 'preprocessing.ipynb' script compiles the data into one dataframe and pre-process the raw data to an intermediate form ready for Exploration.
-
+![dataframe](https://github.com/zachnguyen/ttc_delay_exploration/blob/main/images/dataframe.PNG)
 ## EDA
 The 'eda.ipynb' script performs rigorous exploration of the data to develop intuition about it and formulate a good use case for Machine Learning. The use case is to predict whether a delay will be severe enough and warrant the search for an alternative route (other public transport, uber, friend-calling). Any TTC rider will have experienced stressful contemplation of whether to abandon a route in the face of tardiness, why not have an app that make this decision accurately for you?
-
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 ## ML Modelling
 The 'modelling.ipynb' script execute various Machine Learning algorithms to assess the plausibility of the supervised classification task. It also outline future directions for the project.
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
